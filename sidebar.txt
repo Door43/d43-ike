@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ike:home|Door43 (ike)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ike|d43-ike repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ike/archive/master.zip|d43-ike.zip]]
+
+**Recent Changes**
+{{changes>ns = ike}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ike|Ethnologue data]]
+
